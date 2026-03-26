@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Willem
 
-<!--
-**willemlrs/willemlrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+French engineer based in San Francisco. I graduated from Arts et Métiers (Paris) and UC Berkeley.
 
-Here are some ideas to get you started:
+I build things with Python, SQL, and TypeScript, mostly around data, automation, and web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- **EquitX** — A fintech startup I'm co-founding with two friends
+- **ws_event** — Ticket resale business with custom SaaS tools for market monitoring and inventory management
+- **Open to opportunities** in data engineering, software engineering, and product roles in SF
+
+## Selected projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [EquitX] | Fintech platform (startup in progress) | Python, SQL |
+| [Berlin Housing Predictions](https://github.com/willemlrs/berlin) | ML model predicting real estate prices in Berlin | Python, scikit-learn |
+| [ReRock](https://github.com/willemlrs/rerock) | Hackathon app generating custom rock band artwork via Midjourney API | Python |
+| [WS Event](https://vitrine-ws-event.vercel.app) | Event showcase website | TypeScript, Next.js |
+
+## Get in touch
+
+- [LinkedIn](https://www.linkedin.com/in/willem-lrs/)
+- willem.larras@gmail.com
