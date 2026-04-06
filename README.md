@@ -6,8 +6,8 @@ I build things with Python, SQL, and TypeScript, mostly around data, automation,
 
 ## What I'm working on
 
-- **EquitX** — A fintech startup I'm co-founding with two friends
-- **ws_event** — Ticket resale business with custom SaaS tools for market monitoring and inventory management
+- **EquitX**: A fintech startup I'm co-founding with two friends
+- **ws_event**: Ticket resale business with custom SaaS tools for market monitoring and inventory management
 - **Open to opportunities** in data engineering, software engineering, and product roles in SF
 
 ## Selected projects
